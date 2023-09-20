@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Agung Nugraha**.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nugrahaz/)ku. Untuk melihat aplikasi yang sudah saya buat silahkan kunjungi playstore di: https://play.google.com/store/apps/details?id=com.nugraha.dikitis&hl=id&gl=US
+Jika kamu tertarik untuk berkenalan denganku, silakan kunjungi [Linkedin saya](https://www.linkedin.com/in/nugrahaz/). Untuk melihat aplikasi yang sudah saya buat silahkan kunjungi [Playstore - NuuSys App](https://play.google.com/store/apps/developer?id=NuuSys) 
 
  
 <p align="left">
