@@ -14,9 +14,9 @@
 <a href="https://www.youtube.com/@NuuSys">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/youtube" />
 </a>
-<a href="https://www.wattpad.com/user/Nugrahaz">
+<!-- <a href="https://www.wattpad.com/user/Nugrahaz">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/wattpad" />
-</a>
+</a> -->
 <a href="https://play.google.com/store/apps/developer?id=NuuSys">
   <img align="left" width="26px" src="https://github.com/nugrahaz/food_market/assets/69227102/51bcadbc-56d9-439c-b396-8e5f4cd95e8c" />
 </a>
