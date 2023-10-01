@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently on a journey to build **great** things
 
-- 🌱 I’m currently learning **everything** 🤓
+- 🌱 I’m currently learning **everything** 🤓 
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
