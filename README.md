@@ -40,6 +40,9 @@
  
 </details>
 
+![GitHub Snake Light](dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
 ![Nugrahaz's github stats](https://github-readme-stats.vercel.app/api?username=nugrahaz&show_icons=false&hide_border=true)&nbsp;&nbsp;
 ![Nugrahaz's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nugrahaz&layout=compact&langs_count=8&hide_border=true)
 <br />
